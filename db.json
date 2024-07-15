@@ -126,30 +126,113 @@
 	  },
 	  {
 		"id": "2",
-		"name": "Second cafe",
-		"address": "address 2",
+		"name": "DelPapa",
+		"image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/9d/a4/70/getlstd-property-photo.jpg?w=800&h=-1&s=1",
+		"address": "пр. Достык, 248",
 		"startWorkTime": "14:00",
 		"endWorkTime": "22:00",
 		"waitingTime": 30,
-		"menu": []
+		"menu": [
+			{
+				"id": 11,
+				"name": "Паста",
+				"positions": [
+				  {
+					"id": 1101,
+					"name": "Паста Балоньез",
+					"image": "https://cdn1.ozonusercontent.com/s3/club-storage/images/article_image_1632x1000/685/f6d7c2eb-4616-4d99-bdf0-0d28b62f2dce.jpeg",
+					"cost": 3190
+				  },
+				  {
+					"id": 1102,
+					"name": "Паста Карбонара",
+					"image": "https://i.ytimg.com/vi/0jRxAf7GpUs/maxresdefault.jpg",
+					"cost": 3290
+				  },
+				  {
+					"id": 1103,
+					"name": "Паста Альфредо с семгой",
+					"image": "https://www.chefmarket.ru/blog/wp-content/uploads/2019/10/spaghetti-salmon-e1571559065921.jpg",
+					"cost": 3390
+				  },
+				  {
+					"id": 1104,
+					"name": "Паста Альфредо с курицей",
+					"image": "https://www.mydeliciousmeals.com/images/recipephotos/large/gluten-free-chicken-fettuccine-alfredo-recipe.jpg",
+					"cost": 3490
+				  }
+				]
+			}
+		]
 	  },
 	  {
 		"id": "3",
-		"name": "3rd cafe",
+		"name": "https://restolife.kz/upload/information_system_6/2/2/6/item_22625/information_items_property_26352.jpg",
 		"address": "address 3",
-		"startWorkTime": "18:00",
+		"startWorkTime": "16:00",
 		"endWorkTime": "4:00",
 		"waitingTime": 10,
-		"menu": []
-	  },
-	  {
-		"id": "4",
-		"name": "4th cafe",
-		"address": "address 4",
-		"startWorkTime": "9:00",
-		"endWorkTime": "18:00",
-		"waitingTime": 15,
-		"menu": []
+		"menu": [
+			{
+				"id": 13,
+				"name": "Кофе",
+				"positions": [
+				  {
+					"id": 1301,
+					"name": "Капучино",
+					"info": "Эспрессо с молочной пенкой",
+					"image": "https://acciostore.kz/images/recipes/vancap.webp",
+					"cost": 1190,
+					"addons": [
+					  {
+						"id": 1401,
+						"name": "Шоколадный сироп",
+						"cost": 30
+					  },
+					  {
+						"id": 1402,
+						"name": "Клюквенный сироп",
+						"cost": 30
+					  },
+					  {
+						"id": 1403,
+						"name": "Лед",
+						"cost": 0
+					  }
+					],
+					"ingredients": [
+					  {
+						"id": 115,
+						"name": "Молоко",
+						"list": [
+						  {
+							"id": 11501,
+							"name": "Классическое молоко",
+							"cost": 0
+						  },
+						  {
+							"id": 11502,
+							"name": "Соевое молоко",
+							"cost": 100
+						  },
+						  {
+							"id": 11503,
+							"name": "Кокосовое молоко",
+							"cost": 200
+						  }
+						]
+					  }
+					]
+				  },
+				  {
+					"id": 1302,
+					"name": "Медовый Раф",
+					"image": "https://img.povar.ru/mobile/21/b4/e5/8c/medovii_raf-583259.JPG",
+					"cost": 1290
+				  }
+				]
+			}
+		]
 	  }
 	],
 	"orders": [
