@@ -3,7 +3,7 @@
 	  {
 		"id": "1",
 		"name": "Mamma Mia",
-		"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Frestolife.kz%2Fpitstseriia%2Fmamamia-in-esentai-mall%2F&psig=AOvVaw0txj7STkjNdx94G6eVRoVe&ust=1721124950840000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiPpp7oqIcDFQAAAAAdAAAAABAI",
+		"image": "https://restolife.kz/upload/information_system_6/3/8/2/item_382/information_items_property_116.jpg",
 		"address": "ул. Панфилова 109",
 		"startWorkTime": "9:00",
 		"endWorkTime": "18:00",
@@ -16,25 +16,25 @@
 			  {
 				"id": 1101,
 				"name": "Паста Балоньез",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ozon.ru%2Fclub%2Farticle%2Fspagetti-boloneze-prostoyi-retsept-16304734%2F&psig=AOvVaw2WKfhIvP64aL07A01vrr3L&ust=1721125096780000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjJ-uLoqIcDFQAAAAAdAAAAABAE",
+				"image": "https://cdn1.ozonusercontent.com/s3/club-storage/images/article_image_1632x1000/685/f6d7c2eb-4616-4d99-bdf0-0d28b62f2dce.jpeg",
 				"cost": 3190
 			  },
 			  {
 				"id": 1102,
 				"name": "Паста Карбонара",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.russianfood.com%2Frecipes%2Frecipe.php%3Frid%3D148093&psig=AOvVaw3g_wprrwQ1MDDP9LRLNqjF&ust=1721125145652000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi2i_3oqIcDFQAAAAAdAAAAABAE",
+				"image": "https://i.ytimg.com/vi/0jRxAf7GpUs/maxresdefault.jpg",
 				"cost": 3290
 			  },
 			  {
 				"id": 1103,
 				"name": "Паста Альфредо с семгой",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chefmarket.ru%2Fblog%2Fnezhnaja-pasta-s-semgoj-v-slivochnom-souse%2F&psig=AOvVaw0trE5ux-F1tXB7NY3-H5In&ust=1721125191711000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjqrpDpqIcDFQAAAAAdAAAAABAE",
+				"image": "https://www.chefmarket.ru/blog/wp-content/uploads/2019/10/spaghetti-salmon-e1571559065921.jpg",
 				"cost": 3390
 			  },
 			  {
 				"id": 1104,
 				"name": "Паста Альфредо с курицей",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mydeliciousmeals.com%2Fru%2Frecipe%2Ffettuccine-alfredo-s-kuritsei-i-gribami-bez-glutena&psig=AOvVaw2AqX1dmgNAr2FRHaQiez6_&ust=1721125232464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiB0qjpqIcDFQAAAAAdAAAAABAE",
+				"image": "https://www.mydeliciousmeals.com/images/recipephotos/large/gluten-free-chicken-fettuccine-alfredo-recipe.jpg",
 				"cost": 3490
 			  }
 			]
@@ -46,19 +46,19 @@
 			  {
 				"id": 1201,
 				"name": "Салат Цезарь с курицей",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gastronom.ru%2Frecipe%2F23698%2Fsalat-cezar-s-kuricej&psig=AOvVaw0xqIzc3TKJlnwypaEkCJRw&ust=1721125266006000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjsyLbpqIcDFQAAAAAdAAAAABAE",
+				"image": "https://images.gastronom.ru/-UHzDgNx-m0MMa6OR0ilz2qP7MB0mKQeGceObc9jpck/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzVhNzFhZGY1LTM3MTYtNDlmMy04NDNlLTAwMTg4MGNiM2E0OS5qcGc.webp",
 				"cost": 2190
 			  },
 			  {
 				"id": 1202,
 				"name": "Салат из морепродуктов",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzen.ru%2Fa%2FYfkFpLrWnivLFg9q&psig=AOvVaw2mdzpiFlXGgPKW6bXIGsbC&ust=1721125314852000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjhk9XpqIcDFQAAAAAdAAAAABAE",
+				"image": "https://avatars.dzeninfra.ru/get-zen_doc/195447/pub_61f905a4bad69e2bcb160f6a_61f905d016ca3f127ae24cde/scale_1200",
 				"cost": 2290
 			  },
 			  {
 				"id": 1203,
 				"name": "Салат Свежий",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.russianfood.com%2Frecipes%2Fbytype%2F%3Ffid%3D755&psig=AOvVaw2AoXTvwkpZALe5trmHtBcX&ust=1721125359654000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICehuDpqIcDFQAAAAAdAAAAABAE",
+				"image": "https://thapl-public.storage.yandexcloud.net/thapl-project356/img/CatalogItem/d068e69d5d37e8b0aa2d46b0d7ff3a10_thumb_50_576_576.jpg",
 				"cost": 2390
 			  }
 			]
@@ -71,7 +71,7 @@
 				"id": 1301,
 				"name": "Капучино",
 				"info": "Эспрессо с молочной пенкой",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prostolife.com.ua%2Fru%2Fchto-takoe-kapuchino-i-kak-ego-prigotovit%2F&psig=AOvVaw1HAxLq2H789KjhXLses7ER&ust=1721125416001000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDc2P7pqIcDFQAAAAAdAAAAABAI",
+				"image": "https://acciostore.kz/images/recipes/vancap.webp",
 				"cost": 1190,
 				"addons": [
 				  {
@@ -117,7 +117,7 @@
 			  {
 				"id": 1302,
 				"name": "Медовый Раф",
-				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpovar.ru%2Frecipes%2Fmedovyi_raf-75752.html&psig=AOvVaw1qyuKTDbn_hGo1npj_T9ro&ust=1721125460087000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjG4pHqqIcDFQAAAAAdAAAAABAQ",
+				"image": "https://img.povar.ru/mobile/21/b4/e5/8c/medovii_raf-583259.JPG",
 				"cost": 1290
 			  }
 			]
