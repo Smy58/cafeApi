@@ -167,8 +167,9 @@
 	  },
 	  {
 		"id": "3",
-		"name": "https://restolife.kz/upload/information_system_6/2/2/6/item_22625/information_items_property_26352.jpg",
-		"address": "address 3",
+		"name": "Coffee Boom",
+		"image": "https://restolife.kz/upload/information_system_6/2/2/6/item_22625/information_items_property_26352.jpg",
+		"address": "Кожамкулова 273",
 		"startWorkTime": "16:00",
 		"endWorkTime": "4:00",
 		"waitingTime": 10,
