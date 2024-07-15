@@ -234,6 +234,77 @@
 				]
 			}
 		]
+	  },
+	  {
+		"id": "4",
+		"name": "Coffee Boom не рабочий",
+		"image": "https://restolife.kz/upload/information_system_6/2/2/6/item_22625/information_items_property_26352.jpg",
+		"address": "Кожамкулова 273",
+		"startWorkTime": "16:00",
+		"endWorkTime": "4:00",
+		"waitingTime": 10,
+		"notWorking": true,
+		"menu": [
+			{
+				"id": 13,
+				"name": "Кофе",
+				"positions": [
+				  {
+					"id": 1301,
+					"name": "Капучино",
+					"info": "Эспрессо с молочной пенкой",
+					"image": "https://acciostore.kz/images/recipes/vancap.webp",
+					"cost": 1190,
+					"addons": [
+					  {
+						"id": 1401,
+						"name": "Шоколадный сироп",
+						"cost": 30
+					  },
+					  {
+						"id": 1402,
+						"name": "Клюквенный сироп",
+						"cost": 30
+					  },
+					  {
+						"id": 1403,
+						"name": "Лед",
+						"cost": 0
+					  }
+					],
+					"ingredients": [
+					  {
+						"id": 115,
+						"name": "Молоко",
+						"list": [
+						  {
+							"id": 11501,
+							"name": "Классическое молоко",
+							"cost": 0
+						  },
+						  {
+							"id": 11502,
+							"name": "Соевое молоко",
+							"cost": 100
+						  },
+						  {
+							"id": 11503,
+							"name": "Кокосовое молоко",
+							"cost": 200
+						  }
+						]
+					  }
+					]
+				  },
+				  {
+					"id": 1302,
+					"name": "Медовый Раф",
+					"image": "https://img.povar.ru/mobile/21/b4/e5/8c/medovii_raf-583259.JPG",
+					"cost": 1290
+				  }
+				]
+			}
+		]
 	  }
 	],
 	"orders": [
